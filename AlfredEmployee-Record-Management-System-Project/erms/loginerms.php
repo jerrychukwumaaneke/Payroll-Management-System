@@ -89,6 +89,9 @@ if(isset($_POST['login']))
                   <div class="text-center">
                     <a class="small" href="registererms.php">Create an Account!</a>
                   </div>
+                  <div class="text-center">
+                    <a class="small" href="index.php">Home</a>
+                  </div>
                 </div>
               </div>
             </div>
